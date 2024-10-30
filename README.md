@@ -1,6 +1,6 @@
-# nlp-ue4
+# nlp-ue5
 
-Natural Language Processing Plugin for Unreal Engine 4 using Tensorflow
+Natural Language Processing Plugin, originally made by [Glenn van Waesberghe](https://github.com/Glenn-v-W) for Unreal Engine 4 using Tensorflow, forked for adaptation to UE 5.2.1.
 
 This plugin was built upon [getnamo's tensorflow-ue4 plugin](https://github.com/getnamo/tensorflow-ue4), which you can find here.
 
